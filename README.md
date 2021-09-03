@@ -44,3 +44,4 @@ Custom commands can be set by using the following schema:
 still they are not finished
 
 also working on Music Integration with Spotify API
+The bot is Now deployed Thanks to Heroku
